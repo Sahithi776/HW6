@@ -1,5 +1,3 @@
-import shelve
-import time
 import shelve 
 import time
 
